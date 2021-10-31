@@ -3,7 +3,7 @@
 Esse projeto foi desenvolvido para estudo, no evento NLW HEAT da [RocketSeat](https://www.rocketseat.com.br/). Objetivo dele criar um Crachá personalizado para o maior evento de Teconologia de 2021 [DoWhile](https://dowhile.io/inscricao)
 
 <h4 align="center"> 
-🚀 Finalizado
+🚀 Em Andamento
 </h4>
 
 ### 📕 Aprendizados
